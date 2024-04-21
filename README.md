@@ -6,7 +6,7 @@ Aplicación web y bot de Telegram que proporcionan información meteorológica e
 
 Opten API kEY de OpenCage:  
   
-> Antes de comenzar, asegúrate de tener un API KEY de OpenCage y OpenWeatherMap, Asi como un botToken y Chat Id de Telegram.
+Antes de comenzar, asegúrate de tener un API KEY de OpenCage y OpenWeatherMap, Asi como un botToken y Chat Id de Telegram.
 
 > Si aún no cuentas con ello:
 
