@@ -1,4 +1,4 @@
-# miClimaAPIs ###(By: Barrera Sánchez Uriel)
+# miClimaAPIs (By: Barrera Sánchez Uriel)
 Aplicación web y bot de Telegram que proporcionan información meteorológica en tiempo real utilizando las APIs de OpenCage y OpenWeatherMap.
 
 ## Configuración:
