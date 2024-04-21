@@ -2,7 +2,7 @@
 if ($_SERVER["REQUEST_METHOD"] === "POST") {
     //Cambia Tu_Bot_Token por el token del bot que creaste en telegram y Tu_Cchat_Id por el id del chat
     $botToken = 'Tu_Bot_Token';
-    $chatId = 'Tu_Cchat_Id';
+    $chatId = 'Tu_Chat_Id';
     
     $datosClima = json_decode(file_get_contents('php://input'), true);
     $mensaje = "\n*Reporte del clima en {$datosClima['nombreLugar']}:*\n\n";
