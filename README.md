@@ -16,7 +16,7 @@ Antes de comenzar, asegúrate de tener un API KEY de OpenCage y OpenWeatherMap, 
 
 
 3. Regístrate en [OpenWeatherMap](https://openweathermap.org/).
-4. Crea una nueva aplicación y opten tu API kEY Una vez tengas tu API Key abre el archivo `js/ubicacion.js`. Busca la constante llamada `apiKeyOpenWeatherMap` y remplaza el texto `Tu_ApiKey_OpenWeatherMap` por la API Key que te proporciono OpenCage al crear tu aplicación.
+4. Crea una nueva aplicación y opten tu API kEY Una vez tengas tu API Key abre el archivo `js/ubicacion.js`. Busca la constante llamada `apiKeyOpenWeatherMap` y remplaza el texto `Tu_ApiKey_OpenWeatherMap` por la API Key que te proporciono OpenWeatherMap al crear tu aplicación.
 
 5. Crea un bot en Telegram y opten el botToken y chatId.
 6. Una vez tengas tu botToken y chatId abre el archivo `php/function/enviar-mensaje.php`. Busca las variables `$botToken`, `$chatId` y remplaza los textos `Tu_Bot_Token`, `Tu_Chat_Id` por el botToken y chatId que te proporciono Telegram.
